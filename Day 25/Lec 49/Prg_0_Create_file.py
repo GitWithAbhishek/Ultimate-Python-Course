@@ -1,0 +1,1 @@
+f = open('Day 25/Lec 49/myfile0.txt','w')

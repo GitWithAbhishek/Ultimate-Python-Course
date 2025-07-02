@@ -1,0 +1,5 @@
+print("File Handling Using Python")
+f = open('Day 25/myfile.txt','r')
+text=f.read()
+print(text)
+f.close()
