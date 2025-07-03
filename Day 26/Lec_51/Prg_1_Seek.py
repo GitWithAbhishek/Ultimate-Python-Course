@@ -1,0 +1,5 @@
+print("Seek Method")
+f = open('Day 25/Lec 49/myfile0.txt','r')
+f.seek(5)
+data = f.read(5)
+print(data)

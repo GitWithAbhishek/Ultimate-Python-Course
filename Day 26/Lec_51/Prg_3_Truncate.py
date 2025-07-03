@@ -1,0 +1,5 @@
+print("Truncate - Is mainly used to shorten the size of a file or truncate a float to its integer part depending on where it’s used.")
+f = open('Day 26/Lec_51/myfilet.txt','w')
+f.write("In the quiet of the wind, the heart begins to speak — softly, of dreams once lost and the silent truths we spend our lives trying to find. Beneath the stars, where silence feels like music, every thought flows like a gentle river. In these still moments, there’s peace — a kind of stillness that carries a world of meaning. Hope becomes our light, and love, our guide, as we walk bravely through life’s shadows with open arms. Let your soul drift freely like stardust in the night, because life, for all its storms, holds beauty too. A whispered wish, a wide sky, and the quiet reminder that the world is still yours — especially when your heart leads with love.")
+
+f.truncate(50);
