@@ -1,0 +1,1 @@
+print("What is OOPs in Python ? \nOOPs (Object-Oriented Programming System) is a programming paradigm that organizes code using objects and classes. Python supports OOPs, allowing you to model real-world things using classes (blueprints) and objects (instances of classes).")
